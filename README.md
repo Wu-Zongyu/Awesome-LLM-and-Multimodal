@@ -24,6 +24,7 @@ This repo contains papers and relevant resources about large language models and
 - [Useful Resource](#useful-resource)
 
 ## Survey
+- **Text-to-Image Synthesis: A Decade Survey**. Arxiv'2024. [[Paper]](https://arxiv.org/pdf/2411.16164)
 - **Adversarial attacks and defenses on text-to-image diffusion models: A survey**. Information Fusion (2025). [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004792), [GitHub](https://GitHub.com/datar001/Awesome-AD-on-T2IDM)]
 - **A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**. Arxiv'2024. [[Paper](https://arxiv.org/pdf/2407.07403)], [[GitHub](https://GitHub.com/liudaizong/Awesome-LVLM-Attack)]
 - **Holistic evaluation of language models**. TMLR. [Paper](https://arxiv.org/pdf/2211.09110)
